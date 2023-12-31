@@ -1,0 +1,28 @@
+.input-area input,
+textarea {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    border-color: none;
+    padding: 10px 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}
+
+.login-text {
+    display: flex;
+    text-decoration: dashed;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    color: black;
+}
+
+.submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #f47e12;
+    color: white;
+    padding: 10px;
+    border-color: none;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri;
+}

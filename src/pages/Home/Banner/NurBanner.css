@@ -1,0 +1,32 @@
+.page-size{
+    min-height: 80vh;
+    text-align: center;
+}
+.small-title{
+    font-weight: bold;
+    color: rgb(173, 173, 173);
+    margin-bottom: 10px;
+}
+
+.main-icon-dev{
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.icon-div{
+    margin-bottom: 20px;
+}
+.icon-img{
+    margin: 20px;
+}
+.icon-img img{
+    width: 50px;
+}
+.icon-text h4{
+    margin-bottom: 10px;
+}
+
+
+/* @media screen and (max-width: 800px){
+    
+    
+} */

@@ -1,0 +1,39 @@
+.image_Optimize {
+  width: 250px !important;
+  height: 170px !important;
+  background-color: #ededed;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.Singel_card {
+  width: 350px;
+  margin-bottom: 30px;
+  padding-top: 10px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 10px;
+  height: 380px;
+  border: 1px solid #f09037 !important;
+
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+.Singel_card:hover img {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.Singel_card:hover {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.btn_design {
+  text-decoration: none !important;
+}
+.btn_color {
+  background-color: #ff4f5a !important;
+}
+.btn_design_left {
+  margin-right: 20px;
+  text-decoration: none;
+}

@@ -1,0 +1,13 @@
+.blogbody{
+    margin: 100px 0;
+}
+.bolgcartbody {
+    margin-bottom: 100px;
+}
+.bolgcartbody p{
+    margin-top: 10px;
+}
+
+.blog-img img{
+    width: 100%;
+}

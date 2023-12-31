@@ -1,0 +1,16 @@
+
+.main_card{
+    margin-top: 40px;
+    
+}
+.margin_top{
+    margin-left: 10px !important;
+}
+
+.clean_image{
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+}

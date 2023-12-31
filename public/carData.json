@@ -1,0 +1,102 @@
+[
+    {
+        "brandName": "Ford =",
+        "model":"F-150",
+        "rating": 4.5,
+        "trips": 5,
+        "price": 55,
+        "pickup": "Dhaka",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/QcJFyn2/car-6.png"
+    },
+    {
+        "brandName": "Toyota",
+        "model":"Land Rover",
+        "rating": 5,
+        "trips": 6,
+        "price": 55,
+        "pickup": "Khulna",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/VtksqQw/car-2.png"
+    },
+    {
+        "brandName": "Nissan",
+        "model":"Chrysler 200",
+        "rating": 4,
+        "trips": 5,
+        "price": 65,
+        "pickup": "Rangpur",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/GWjjP4N/car-3.png"
+    },
+    {
+        "brandName": "Nissan",
+        "model":"Kia Sorento",
+        "rating": 4,
+        "trips": 5,
+        "price": 35,
+        "pickup": "Rangpur",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/LvHvdMS/car-8.png"
+    },
+    {
+        "brandName": "Ferarri",
+        "model":"Subaru Legacy",
+        "rating": 4,
+        "trips": 5,
+        "price": 35,
+        "pickup": "Naogaon",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/gj8pYLk/car-5.png"
+    },
+    {
+        "brandName": "Ferarri",
+        "model":"Porsche Macan",
+        "rating": 4,
+        "trips": 5,
+        "price": 25,
+        "pickup": "Naogaon",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/QcJFyn2/car-6.png"
+    },
+    {
+        "brandName": "Mercedes",
+        "model":"Mercedes-Benz",
+        "rating": 4,
+        "trips": 5,
+        "price": 35,
+        "pickup": "Naogaon",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/RDrG4qK/car-7.png"
+    },
+    {
+        "brandName": "Volkswagen",
+        "model":"Volkswagen GTI",
+        "rating": 5,
+        "trips": 9,
+        "price": 72,
+        "pickup": "Rangpur",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/cJ4NWwg/car-4.png"
+    },
+    {
+        "brandName": "Volkswagen",
+        "model":"Volkswagen Golf",
+        "rating": 3,
+        "trips": 4,
+        "price": 78,
+        "pickup": "Rangpur",
+        "status": "available",
+        "imgUrl":"https://i.ibb.co/K9pH3RG/car-1.png"
+    },
+    {
+        "brandName": "Lamborghini",
+        "model":"Black Lamborghini",
+        "rating": 4.8,
+        "trips": 20,
+        "price": 135,
+        "pickup": "Dhaka",
+        "status": "available",
+        "imgUrl":"https://th.bing.com/th/id/R.18372273d8aec83c6c1dfb4e6a2bba9d?rik=he5zEPEi0ZQc2A&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-black-lamborghini-centenario-lp-770-4-carcarvehicletransportlamborghini-961524643309tcjkp.png&ehk=0pueJd5gD01OoIXU9YINP3CCJTRBJJgVCCzjOS5s5sQ%3d&risl=&pid=ImgRaw&r=0"
+    }
+]

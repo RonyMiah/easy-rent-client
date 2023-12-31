@@ -1,0 +1,268 @@
+[33mcommit a940f49ff5b26159e1ad39cd33d0552adf1bcd5f[m[33m ([m[1;36mHEAD -> [m[1;32mnur-dashboard[m[33m)[m
+Merge: 4d21d11 8baaf10
+Author: nurboss <nurmohammod993@gmail.com>
+Date:   Mon May 23 21:32:05 2022 +0600
+
+    Merge branch 'development' into nur-dashboard
+
+[33mcommit 8baaf108feeedb0f341e34095ade9cb5e93f3de5[m[33m ([m[1;31morigin/md-tanber[m[33m, [m[1;31morigin/development[m[33m, [m[1;32mdevelopment[m[33m)[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Mon May 23 17:26:05 2022 +0300
+
+    our drivers data  added
+
+[33mcommit 4d21d1181eeb389ce7cd10bd072514e0a282bed2[m[33m ([m[1;31morigin/nur-dashboard[m[33m)[m
+Author: nurboss <nurmohammod993@gmail.com>
+Date:   Mon May 23 20:09:09 2022 +0600
+
+    nur
+
+[33mcommit 48df7aa0872ac57c91798c71a2980ec20c69ffcf[m
+Merge: 5dd60ab 6a76a9f
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 22:59:37 2022 +0600
+
+    Merge branch 'development' of https://github.com/ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit 5dd60abe742d92188ff29620d6378f06deac8500[m
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 22:53:03 2022 +0600
+
+    complete
+
+[33mcommit 6a76a9f769c57b1ac450bfc519ba064298ca6644[m
+Author: rakibemon <rakibemon03@gmail.com>
+Date:   Fri May 20 20:36:50 2022 +0600
+
+    All review error fixed
+
+[33mcommit 67401f8a59aff55fe2465c17897b32436e363f4e[m
+Merge: 7fb63cc 01f0e0b
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 20:31:17 2022 +0600
+
+    Merge branch 'development' of https://github.com/ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit 01f0e0b8627cade497216f6692346bd136567810[m
+Merge: 3e26424 c4ee7c0
+Author: rakibemon <rakibemon03@gmail.com>
+Date:   Fri May 20 20:27:42 2022 +0600
+
+    Private Route added
+
+[33mcommit 7fb63cce096d99c35a7e9aef2e6a4cd4c71a2450[m
+Merge: 6959f06 c4ee7c0
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 20:18:34 2022 +0600
+
+    Merge branch 'development' of https://github.com/ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit 6959f066a8501676d58d970806a37d03c2f25d49[m
+Merge: be69a90 726ba2b
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 20:13:03 2022 +0600
+
+    Merge branch 'development' of https://github.com/ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit c4ee7c0b72fd4f41419a304878455e71a57f6046[m[33m ([m[1;31morigin/farzana[m[33m)[m
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 20:12:39 2022 +0600
+
+    updated
+
+[33mcommit ad11d8ee9bae7f349bb2ac5d7c3ea292c8f2a237[m
+Merge: d4ccf2e 0809249
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 20:05:54 2022 +0600
+
+    updated
+
+[33mcommit 0809249e728eaf884246a5c0e0503d226b48c41d[m
+Merge: 2241253 726ba2b
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 20:04:43 2022 +0600
+
+    Merge branch 'development' of meHub:ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit d4ccf2e5409936e74349108cdd97cd4598986867[m
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 20:03:54 2022 +0600
+
+    updated
+
+[33mcommit 726ba2b498fa0bda39a41a19bd6c1362eaec37d8[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Fri May 20 16:47:37 2022 +0300
+
+    my orders updated
+
+[33mcommit 9d5a8d961948aa12444c0c2271dd22dd1199c58f[m
+Merge: d57eb32 76021de
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Fri May 20 16:47:29 2022 +0300
+
+    Merge branch 'development' into md-tanber
+
+[33mcommit be69a90b662ad41fb64c1f9ac1de78f8f503301e[m
+Merge: b147432 76021de
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 19:45:15 2022 +0600
+
+    Merge branch 'development' of https://github.com/ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit d57eb327dbff823d1a7fe7607c99d1360f1691c4[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Fri May 20 16:44:51 2022 +0300
+
+    my orders updated
+
+[33mcommit 76021dea27baa9a23bd82932c419191062253c80[m
+Merge: 10a0ee4 0a87e37
+Author: nurboss <nurmohammod993@gmail.com>
+Date:   Fri May 20 19:18:14 2022 +0600
+
+    nur
+
+[33mcommit 10a0ee46dd7076de3710bdb092742302b6411914[m
+Author: nurboss <nurmohammod993@gmail.com>
+Date:   Fri May 20 19:06:13 2022 +0600
+
+    nur
+
+[33mcommit 184053b0eb604543652263dcf706a91abfac9017[m
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 14:56:30 2022 +0600
+
+    updated
+
+[33mcommit 183836ddb89a6a92b4a827ce210fea23ba1e0c3b[m
+Merge: 5c74af2 2241253
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 11:44:11 2022 +0600
+
+    updated
+
+[33mcommit 2241253e6136bd86a79d0cb7050c7936631406ba[m
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 11:29:02 2022 +0600
+
+    updated
+
+[33mcommit b1474322c803953747b1393f6cc62b5005c8aaf1[m
+Merge: 1c44efa 0a87e37
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Fri May 20 10:41:07 2022 +0600
+
+    Merge branch 'development' of https://github.com/ab-atiq/endgame-project-1-client-side into development
+
+[33mcommit c34f908d525b98384b86c4bed92bac927838bca2[m
+Merge: e10f0f2 0a87e37
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 09:02:34 2022 +0600
+
+    updated
+
+[33mcommit 5c74af28b2f442fdb37695f08eeaf9770ebeff63[m
+Author: farzanapomy <farzanapomy56@gmail.com>
+Date:   Fri May 20 09:02:00 2022 +0600
+
+    updated
+
+[33mcommit 0a87e372ce02f5e4a79f25a6bed45d4acf612408[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Fri May 20 00:09:36 2022 +0300
+
+    our drivers data  added
+
+[33mcommit 3e26424386b744d109ab2674d05b333872c6f2f9[m
+Author: rakibemon <rakibemon03@gmail.com>
+Date:   Thu May 19 23:35:01 2022 +0600
+
+    user Details modified
+
+[33mcommit 2f97b107dec8a54cfb5f897ed7331575e830b328[m
+Merge: 5bf3175 5565f6c
+Author: rakibemon <rakibemon03@gmail.com>
+Date:   Thu May 19 23:34:26 2022 +0600
+
+    user Details modified
+
+[33mcommit 5bf31756e004032091b5e652106df22d161c0989[m
+Author: rakibemon <rakibemon03@gmail.com>
+Date:   Thu May 19 23:30:30 2022 +0600
+
+    Private Route added
+
+[33mcommit 5565f6c18c8bb5f4b093424ce30bd46db060d63f[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Thu May 19 19:00:01 2022 +0300
+
+    our drivers data  added
+
+[33mcommit 3ed87a43d8d4499e768cc5a96121e08e941c3875[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Thu May 19 18:51:16 2022 +0300
+
+    our drivers data  added
+
+[33mcommit 1c44efa0f6052100e03e3a616981c9a622381147[m
+Merge: bbcf4f2 2db4767
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Thu May 19 19:50:21 2022 +0600
+
+    Merge branch 'atiqur' into development
+
+[33mcommit 2db4767a3cec60271c5cd8d80ee4f9346d2c37ee[m
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Thu May 19 16:54:06 2022 +0600
+
+    course complete
+
+[33mcommit bbcf4f2b12bbb6e6ed0592c0f1164a564c2257a6[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Thu May 19 01:38:35 2022 +0300
+
+    our drivers added
+
+[33mcommit 12eac12bafb0dd79e9a1a2dd641c83a775d46250[m
+Merge: b66c477 17d9fd5
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Thu May 19 01:35:40 2022 +0300
+
+    Merge branch 'development' into md-tanber
+
+[33mcommit b66c477b6de426f47fe496f87286b4a4059d8803[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Thu May 19 01:34:31 2022 +0300
+
+    our drivers added
+
+[33mcommit 89c1de317460f292f4fabbe9401059cec670c26a[m
+Author: rakibemon <rakibemon03@gmail.com>
+Date:   Thu May 19 03:54:27 2022 +0600
+
+    make UI good and responsive
+
+[33mcommit 17d9fd5b765f7cf24f9f63277d048550f090df85[m
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   Thu May 19 00:42:13 2022 +0600
+
+    service ssl
+
+[33mcommit 0ef2c331f3bd5e8b0b0c0637c6817b9ca588b0f3[m
+Merge: 53524a7 3db7c11
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Wed May 18 20:45:43 2022 +0300
+
+    profile updated
+
+[33mcommit 53524a7d172b1cd74d57257d64b2621f1e917191[m
+Author: strtanberahmed <tanber1111@gmail.com>
+Date:   Wed May 18 20:42:59 2022 +0300
+
+    profile updated
+
+[33mcommit 3db7c118d446ffd174255b2b8a16cc1ac2c14e75[m
+Merge: 414a6e5 e771886
+Author: ATIQUR RAHMAN <abulbasharatiqur@gmail.com>
+Date:   W

@@ -1,0 +1,14 @@
+.rent-button {
+    border: none;
+    width: 100%;
+    padding: 8px 12px;
+    color: white;
+    background: #e78e52;
+    border-radius: 10px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.rent-button:hover {
+    background-color: black;
+}

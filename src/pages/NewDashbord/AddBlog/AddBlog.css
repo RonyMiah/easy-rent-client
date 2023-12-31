@@ -1,0 +1,93 @@
+.addblogbody{
+    margin: 1.4rem 2rem 0 0;
+    
+}
+
+.addblogbody h1{
+    font-weight: 800;
+    font-size: 1.8rem;
+}
+.addblogbody h2{
+    margin: 1rem 0;
+}
+:root {
+    --body-bg: #f5f8ff;
+    --box-bg: #fff;
+    --input-bg: #f5f8ff;
+    --txt-color: #2f2d2f;
+    --txt-second-color: #ccc;
+    --border-color: #4267b2;
+    --box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.fileuploadbody{ 
+    color: var(--txt-color);
+
+    display: flex;
+    justify-content: center;
+    
+
+}
+.blog-box {
+    background-color: var(--box-bg);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: var(--box-shadow);
+    width: 500px;
+}
+
+.header {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.blog-box form{
+    margin-top: 20px;
+    width: 100%;
+    padding: 0;
+}
+.blog-box form textarea{
+    width: 100%;
+    resize: none;
+    padding: 10px;
+    border: 2px solid var(--border-color);
+    border-radius: 15px;
+    background-color: var(--input-bg);
+}
+.blog-box form textarea::placeholder{
+    color: var(--border-color);
+    
+}
+.blog-box input{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid var(--border-color);
+    border-radius: 15px;
+    background-color: var(--input-bg);
+    
+}
+.blog-box input::placeholder{
+    color: var(--border-color);
+    
+}
+.blog-box input[type='submit']{
+    background-color: var(--border-color);
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+/* @media screen and (max-width: 1200px){
+    
+}
+@media screen and (max-width: 768px){
+
+} */
+@media screen and (max-width: 600px){
+    .addblogbody{
+        margin: 1rem 1rem 1rem 1rem;
+        
+    }
+    .blog-box {
+        padding: 20px;
+        width: 100%;
+    }
+}

@@ -1,0 +1,78 @@
+.addproductbody{
+    margin: 1.4rem 2rem 0 0;
+}
+.addproductbody h1{
+    font-weight: 800;
+    font-size: 1.8rem;
+}
+.addproductbody h2{
+    margin: 1rem 0;
+}
+
+.productfileuploadbody{ 
+    color: var(--txt-color);
+
+    display: flex;
+    justify-content: center;
+    
+
+}
+.d-product-box {
+    background-color: var(--box-bg);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: var(--box-shadow);
+    width: 500px;
+}
+
+.header {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.d-product-box form{
+    margin-top: 20px;
+    width: 100%;
+    padding: 0;
+}
+.d-product-box form textarea{
+    width: 100%;
+    resize: none;
+    padding: 10px;
+    border: 2px solid var(--border-color);
+    border-radius: 15px;
+    background-color: var(--input-bg);
+}
+.d-product-box form textarea::placeholder{
+    color: var(--border-color);
+    
+}
+.d-product-box input{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid var(--border-color);
+    border-radius: 15px;
+    background-color: var(--input-bg);
+    
+}
+.d-product-box input::placeholder{
+    color: var(--border-color);
+    
+}
+.d-product-box input[type='submit']{
+    background-color: var(--border-color);
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+@media screen and (max-width: 600px){
+    .addproductbody{
+        margin: 1rem 1rem 1rem 1rem;
+        
+    }
+    .d-product-box {
+        padding: 20px;
+        width: 100%;
+    }
+}

@@ -1,0 +1,58 @@
+.hero{
+    background-image: url("https://content.skyscnr.com/m/5f1f024b086bcf73/original/Car-hero-2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding-top: 3rem;
+
+}
+.hero-title{
+    color: #FFFFFF !important;
+    font-size: 48px;
+    font-weight: bolder;
+    text-align: center;
+}
+.form-container{
+    display: flex;
+    background-color: rgb(169, 30, 30);
+    max-width: 450px;
+    margin: 0 auto;
+}
+  
+.title_Car{
+    text-align: center;
+}
+.from_control{
+    padding: 20px;
+}
+.background_color{
+    background-color: rgba(221, 225, 225, 0.592);
+}
+.input_group type{
+  color: rgba(86, 79, 79, 0.073);
+}
+
+.car-card-container{
+    margin: 2rem 0;
+}
+
+.car-card{
+    padding: 2rem;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin-bottom: 30px;
+}
+.car-card-img{
+    max-width: 300px;
+    height: 200px;
+}
+@media only screen and (max-width:640px){
+    .hero-title{
+        font-size: 20px !important;
+    }
+    .hero-card-grid{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

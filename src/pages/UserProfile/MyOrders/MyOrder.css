@@ -1,0 +1,55 @@
+.order-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.order-container {
+    display: flex;
+
+}
+
+.order-image {
+    height: 500px;
+    width: 350px;
+    border-radius: 3px;
+}
+
+.order-card {
+    height: 500ps;
+    margin: 50px;
+    box-shadow: 5px 5px 20px black;
+    overflow: hidden;
+}
+
+.order-intro {
+    height: 210px;
+    width: 350px;
+    padding-left: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    background: black;
+    color: white;
+}
+
+.order-name {
+    margin: 10px;
+    font-size: 40px;
+}
+
+.order-details {
+    font-size: 20px;
+}
+
+/* .order-card:hover {
+    cursor: pointer;
+    bottom: 240px;
+    background: black;
+} */
+
+/* .order-card:hover .order-intro {
+    height: 220px;
+    bottom: 240px;
+    background: black;
+} */

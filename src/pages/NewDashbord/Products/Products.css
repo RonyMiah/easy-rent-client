@@ -1,0 +1,49 @@
+.productsbody{
+    margin: 1.4rem 2rem 0 0;
+}
+
+.productsbody h1{
+    font-weight: 800;
+    font-size: 1.8rem;
+}
+.productsbody h2{
+    margin: 1rem 0;
+}
+.allproduct{
+    margin: 2rem 0 0 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.6rem;
+}
+.product-box{
+    width: 250px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+.deleteservice-button{
+    border: none;
+  width: 100%;
+  padding: 8px 12px;
+  color: white;
+  background: var(--color-primar);
+  border-radius: 10px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+@media screen and (max-width: 1200px){
+    .allproduct{        
+        grid-template-columns: repeat(3, 1fr);       
+    }
+}
+@media screen and (max-width: 768px){
+    .productsbody{
+        margin: 1rem 1rem 1rem 1rem;
+    }
+    .allproduct{        
+        grid-template-columns: 1fr; 
+        width: 100%;  
+         
+    }
+}

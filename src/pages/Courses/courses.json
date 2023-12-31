@@ -1,0 +1,50 @@
+[
+  {
+    "courseId": "car-1",
+    "courseTitle": "Easy Car Drive",
+    "trainer": "Atiqur Rahman",
+    "description": "In this course, you will see the easiest way to drive car. We will show you every step to start drive car for a new person.",
+    "bannerImg": "https://images.megapixl.com/1071/10714062.jpg",
+    "price": 50
+  },
+  {
+    "courseId": "bike-1",
+    "courseTitle": "Drive Bike",
+    "trainer": "Nor Mohammod",
+    "description": "Here you will see the simple way to drive bike. We will show you every step to start drive bike for a new person.",
+    "bannerImg": "https://www.westend61.de/images/0001431616pw/serious-male-driving-motorcycle-in-forest-ADSF08517.jpg",
+    "price": 60
+  },
+  {
+    "courseId": "bus-1",
+    "courseTitle": "Learn Bus Drive",
+    "trainer": "Str Tanber",
+    "description": "In this course, you will see the easiest way to drive Bus. We will show you every step to start drive Bus for a new person.",
+    "bannerImg": "https://images.unsplash.com/photo-1612185079032-79b1a9932a3c?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870",
+    "price": 55
+  },
+  {
+    "courseId": "car-2",
+    "courseTitle": "Learn Drive with Rony",
+    "trainer": "Rony Miah",
+    "description": "Here you will see the easiest way to drive Car. We will show you every step to start drive car for a new person.",
+    "bannerImg": "https://media.istockphoto.com/photos/success-in-motion-picture-id907996150?k=20&m=907996150&s=612x612&w=0&h=IOznx9YYJBRndd5I4ej6s_7v-fJ-8XIEOzzI_k5G8Ww=",
+    "price": 70
+  },
+  {
+    "courseId": "bus-2",
+    "courseTitle": "Learn Bus Drive",
+    "trainer": "Rakib Istiak",
+    "description": "In this course, you will see the easiest way to drive Bus. We will show you every step to start drive car for a new person.",
+    "bannerImg": "https://thumbs.dreamstime.com/b/view-cockpit-tourist-bus-thailand-211616395.jpg",
+    "price": 80
+  },
+  {
+    "courseId": "car-3",
+    "courseTitle": "Learn Car Drive",
+    "trainer": "Farzana Pomy",
+    "description": "In this course, you will see the easiest way to drive Bus. We will show you every step to start drive car for a new person.",
+    "bannerImg": "https://static.vecteezy.com/system/resources/previews/004/880/136/large_2x/woman-hand-holding-the-steering-wheel-a-car-drive-a-car-travel-relax-in-the-holiday-driving-skills-a-car-free-photo.jpg",
+    "price": 90
+  }
+]
